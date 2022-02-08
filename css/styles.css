@@ -1,10 +1,4 @@
-
-@import url('http://fonts.cdnfonts.com/css/happy-doodle');
-
-
-
-
 h1 {
-	font-family: 'HAPPY DOODLE', sans-serif;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
 	letter-spacing: 10px;
 }
