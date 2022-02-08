@@ -1,6 +1,6 @@
 $(function () {
 $('#btnCheck').click(function () {
-if ($('#txtword').val().indexOf('6l3nMD5vjv0deAiRcxKGKMuLHb8hgA37') != -1) {
+if ($('#txtword').val().indexOf('how') != -1) {
 alert('String Contains Word');
 return true;
 } else {
