@@ -1,10 +1,10 @@
 $(function () {
 $('#btnCheck').click(function () {
 if ($('#txtword').val().indexOf('how') != -1) {
-alert('String Contains Word');
+$(location).attr('href','/pages/mainsite.html');;
 return true;
 } else {
-alert('String Does not contains word');
+alert('key is invalid');
 return false;
 }
 });
