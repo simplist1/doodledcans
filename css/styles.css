@@ -1,4 +1,16 @@
 h1 {
-	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
-	letter-spacing: 10px;
+    font-family: annie-use-your-telescope;
+    letter-spacing: 10px;
+    font-style: normal;
+    font-weight: 900;
+    color: #31F578;
+	font-size: 50px;
+}
+#top {
+	overflow: hidden;
+    background-color: #FF64F9;
+	position: relative;
+	margin-top: -10px;
+	margin-left: -10px;
+	margin-right: -10px;
 }
